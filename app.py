@@ -15,6 +15,7 @@ import json
 import pandas as pd
 import plotly.express as px
 
+print('1')
 
 
 USERNAME_PASSWORD_PAIRS =[ ['yachtunion', 'yachtunion']]
