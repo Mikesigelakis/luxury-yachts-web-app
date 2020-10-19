@@ -1,0 +1,60 @@
+.application-Title {
+    font-size: 35px;
+    font-family: "Times New Roman", Times, serif;
+    height: 70px;
+}
+
+.label-dropdown {
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.form-filters-row {
+    position: relative;
+    top: 0px;
+}
+
+.form-filters-row-2 {
+    position: relative;
+    top: 70px;
+}
+
+.form-filters-row-3 {
+    position: relative;
+    top: 60px;
+}
+
+.form-filters-row-4 {
+    position: relative;
+    top: 60px;
+}
+
+.form-filters-row-5 {
+    position: relative;
+    top: 60px;
+    height: 500px;
+}
+
+#graph {
+    width: 90%;
+}
+
+.information-specific-car,
+.information-specific-car-label {
+    font-size: 17px;
+}
+
+.information-specific-car {
+    width: 350px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    position: relative;
+    top: 14px;
+}
+
+.border-specific-car {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 1px 2px inset;
+}
